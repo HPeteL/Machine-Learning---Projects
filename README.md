@@ -3,3 +3,5 @@ These are the projects related to machine learning using Python. These are the i
 The methods used in these projects - 
 1. Linear regression
 2. Logistic Regression
+3. Decission Tree and Random
+4. Natural Language Processing
